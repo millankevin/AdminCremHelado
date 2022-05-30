@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminCremHelado", "AdminCremHelado\AdminCremHelado.csproj", "{D5C0918B-2717-43FC-BD18-24D5E74E1912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{3E3356F6-12BD-4BB8-B929-D5E8D7E30B17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica", "Logica", "{041FFAF3-A8FD-4FC5-974D-5495EA6FC21E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistencia", "Persistencia", "{EDD463A1-B05B-40B9-9580-49C381E6DBD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{CACC8E26-9347-42C2-8C9E-B31C6AE56B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{B0817BAE-1C5E-4E44-A08A-479CB0717F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transversal", "Transversal\Transversal.csproj", "{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversales", "Transversales", "{9CA5FDD1-554C-49AB-9D7F-26D8B38FD146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C0918B-2717-43FC-BD18-24D5E74E1912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C0918B-2717-43FC-BD18-24D5E74E1912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C0918B-2717-43FC-BD18-24D5E74E1912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C0918B-2717-43FC-BD18-24D5E74E1912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACC8E26-9347-42C2-8C9E-B31C6AE56B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACC8E26-9347-42C2-8C9E-B31C6AE56B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACC8E26-9347-42C2-8C9E-B31C6AE56B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACC8E26-9347-42C2-8C9E-B31C6AE56B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0817BAE-1C5E-4E44-A08A-479CB0717F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0817BAE-1C5E-4E44-A08A-479CB0717F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0817BAE-1C5E-4E44-A08A-479CB0717F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0817BAE-1C5E-4E44-A08A-479CB0717F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5C0918B-2717-43FC-BD18-24D5E74E1912} = {3E3356F6-12BD-4BB8-B929-D5E8D7E30B17}
+		{CACC8E26-9347-42C2-8C9E-B31C6AE56B13} = {EDD463A1-B05B-40B9-9580-49C381E6DBD6}
+		{B0817BAE-1C5E-4E44-A08A-479CB0717F21} = {041FFAF3-A8FD-4FC5-974D-5495EA6FC21E}
+		{DEFFC9E0-57E3-4FA5-847C-082B4A8B60DB} = {9CA5FDD1-554C-49AB-9D7F-26D8B38FD146}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD1E066-87C5-404F-B48F-5C602BEE2F3B}
+	EndGlobalSection
+EndGlobal

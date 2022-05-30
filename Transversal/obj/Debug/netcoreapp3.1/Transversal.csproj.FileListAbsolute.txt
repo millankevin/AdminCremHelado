@@ -1,0 +1,9 @@
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\bin\Debug\netcoreapp3.1\Transversal.deps.json
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\bin\Debug\netcoreapp3.1\Transversal.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\bin\Debug\netcoreapp3.1\Transversal.pdb
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.GeneratedMSBuildEditorConfig.editorconfig
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.AssemblyInfoInputs.cache
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.AssemblyInfo.cs
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.csproj.CoreCompileInputs.cache
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Transversal\obj\Debug\netcoreapp3.1\Transversal.pdb

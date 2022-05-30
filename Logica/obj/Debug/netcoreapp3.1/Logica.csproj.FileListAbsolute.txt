@@ -1,0 +1,15 @@
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Dominio.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Transversal.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Dominio.pdb
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\bin\Debug\netcoreapp3.1\Transversal.pdb
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.GeneratedMSBuildEditorConfig.editorconfig
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+K:\Universidad\Mantenimiento de software\AdminCremHelado\Logica\obj\Debug\netcoreapp3.1\Logica.pdb

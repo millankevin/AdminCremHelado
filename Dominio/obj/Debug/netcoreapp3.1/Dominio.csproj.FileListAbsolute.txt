@@ -1,9 +1,0 @@
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
-K:\Universidad\Mantenimiento de software\AdminCremHelado\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
